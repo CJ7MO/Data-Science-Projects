@@ -1,2 +1,2 @@
 # Data-Science-Projects
-This is a repository of data science practical hands-on projects 
+This is a repository of Machine Learning hands-on projects 
